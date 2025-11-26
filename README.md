@@ -27,7 +27,7 @@ $ top
 $ top -u user
 ```
 #### 실행 화면
-![top 명령어 실행 화면](top_screenshot.png)
+![top 명령어 실행 화면](top_screenshot)
 
 ---
 
@@ -67,7 +67,7 @@ $ ps aux
 $ ps -u username
 ```
 #### 실행 화면
-![ps 명령어 실행 화면](top_screenshot.png)
+![ps 명령어 실행 화면](ps_screenshot)
 
 ---
 
@@ -92,7 +92,7 @@ $ jobs        # 목록 확인
 ```
 
 #### 실행 화면
-![jobs 명령어 실행 화면](top_screenshot.png)
+![jobs 명령어 실행 화면](jobs_screenshot)
 
 ---
 
@@ -128,4 +128,4 @@ $ kill %1
 ```
 
 #### 실행 화면
-![kill 명령어 실행 화면](top_screenshot.png)
+![kill 명령어 실행 화면](kill_screenshot)
